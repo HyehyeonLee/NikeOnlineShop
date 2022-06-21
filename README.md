@@ -1,14 +1,18 @@
-# 나이키 온라인 쇼핑몰 사이트 (jsp, servlet)
+# 나이키 온라인 쇼핑몰 사이트(JSP & Servlet)
 개발 환경 : java 1.8.0, eclipse, MySQL 8.0.21, window 10, apache-tomcat-8.5.57 <br />
 개발 기간 : 2020.09.02 ~ 2020.09.11 <br />
 개발 인원 : 4명(김태립, 이혜현, 진영웅, 추주헌)<br />
 참고 사이트 : https://www.nike.com/kr/ko_kr/ (한국 나이키 온라인 스토어) <br />
-PPT : https://url.kr/5aq2ye (google drive link) PPT 미리보기🔽 <br />
+PPT : https://url.kr/5aq2ye (google drive link) PPT 미리보기🔽 <br /><br />
+<img src = "https://github.com/HyehyeonLee/NikeOnlineShop/blob/master/nikeShop/WebContent/images/nikeppt.jpg" />
 
 ## 1. 개요
-MVC model 2 기반으로 한 Servlet & JSP 쇼핑몰<br />
-나이키로 선택한 이유 - 나이키는 대중적인 브랜드로, 온라인 스토어 사이트 또한 남녀노소를 위한 사이트로 제작되었다고 생각하여 벤치마킹 시 실력 향상에 도움이 될 것이라도 판단했습니다.
-
+<ul>
+  <li><b>What?</b> → MVC model 2 기반으로 한 Servlet & JSP 쇼핑몰</li>
+  <li><b>Why?</b> → 나이키는 대중적인 브랜드로, 온라인 스토어 사이트 또한 남녀노소를 위한 사이트로 제작되었다고 생각하여 벤치마킹 시 실력 향상에 도움이 될 것이라도 판단했습니다.</li>
+  <li><b>Difference</b> → 관리자 페이지와 관리자에게 필요한 기능들을 상상하여 구현했습니다.</li>
+</ul>
+  
 ## 2. 역할 분담
 <ul>
   <li>김태립 : 검색 기능, 고객 센터, 장바구니</li>
